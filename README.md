@@ -13,4 +13,4 @@ Make sure your open scenes have been added to the project build settings ( Main 
 Install the included .apk file in your Android device, it should be running Android version over 4.4.2 for it to run properly, but the latest version is highly recommended.
 
 ### For Building
-Make sure the target platform is Android and your scenes have been loaded. On Adroid settings make sure 
+Make sure the target platform is Android and your scenes have been loaded. On Adroid settings check that minimum SDK is set to KitKat(4.4) and target is set to Highest Installed
